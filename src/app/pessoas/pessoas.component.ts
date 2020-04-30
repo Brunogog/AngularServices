@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-//import [pessoas] from ' ./pessoas.model';
+import {pessoas} from './pessoas.model';
 
 @Component({
   selector: 'app-pessoas',
