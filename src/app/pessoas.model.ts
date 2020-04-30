@@ -5,5 +5,4 @@ export interface pessoas {
     corOlhos: string;
     sexo: string;
     email: string;
-
 }
